@@ -35,6 +35,9 @@ extra:
     - icon: fontawesome/brands/discord 
       link: https://discord.gg/ss220
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
   - pymdownx.details
