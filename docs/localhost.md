@@ -2,7 +2,7 @@
 
 ## Ссылка на гит
 
-https://github.com/SerbiaStrong-220/wiki-14
+[https://github.com/SerbiaStrong-220/wiki-14](https://github.com/SerbiaStrong-220/wiki-14)
 
 ## Сборка и запуск локальной вики
 
