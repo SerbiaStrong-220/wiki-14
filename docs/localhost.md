@@ -17,6 +17,10 @@
 
 ## Документация
 
-[Наглядный базиз языка на котором написана вики.](https://markdown-it.github.io/) </br>
-[Чуть более продвинутый базиз](https://www.markdownguide.org/basic-syntax/) </br>
-[Хороший пример того как делать красивые таблички](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)
+[Наглядный базиз языка на котором написана вики.](https://markdown-it.github.io/)  
+[Чуть более продвинутый базиз](https://www.markdownguide.org/basic-syntax/)  
+[Хороший пример того как делать красивые таблички](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)  
+[Описание функционала Material (как делать кнопки, аннотации, вкладки и прочее)](https://squidfunk.github.io/mkdocs-material/reference/)
+
+## Прочие заметки
+- Для перехода на новую строку не нужно писать `<br>`, достаточно поставить два пробела в конце строки.
