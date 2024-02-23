@@ -5,7 +5,7 @@
 
 | Наименование | Как выглядит | где находиться изначально |
 |  |  |  |
-|диск ядерной авторизации  | ![nucdisk](../images/objects/highrisks/NuclearDisk.gif) |шкаф Kапитана|
+|Диск ядерной авторизации  | ![nucdisk](../images/objects/highrisks/NuclearDisk.gif) |шкаф Kапитана|
 |ID-карта капитана  |![idcapitan](../images/objects/highrisks/Id_card_captain.png)|шкаф Kапитана, офис Kапитана|
 |Антикварный лазерный пистолет |![antiquelaser](../images/objects/highrisks/Antique_laser_gun.png)|шкаф Kапитана, офис Kапитана|
 |Джетпак капитан |![capjet](../images/objects/highrisks/Captainjetpack.png)|шкаф Kапитана|
