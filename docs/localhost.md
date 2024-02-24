@@ -19,7 +19,8 @@
 
 [Наглядный базиз языка на котором написана вики.](https://markdown-it.github.io/)  
 [Чуть более продвинутый базиз](https://www.markdownguide.org/basic-syntax/)  
-[Хороший пример того как делать красивые таблички](https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table)  
+[Хороший пример того как делать красивые таблички](https://jsfiddle.net/mraLrgp2/)
+[Расширение для Google docs которое превращает текст в markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607?hl=ru)
 [Описание функционала Material (как делать кнопки, аннотации, вкладки и прочее)](https://squidfunk.github.io/mkdocs-material/reference/)
 
 ## Прочие заметки
