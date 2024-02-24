@@ -1,3 +1,102 @@
 .md-grid {
   max-width: 1600px;
 }
+
+.spacelaw tbody td {
+  background: linear-gradient(rgba(45, 45, 46, 0.199), rgba(41, 39, 39, 0.151));
+}
+table.spacelaw tbody td+td+td+td+td+td {
+  background-color: rgba(15, 15, 15, 0.801);
+  
+}
+table.spacelaw tbody td+td+td+td+td {
+  background-color: rgb(141, 18, 18)
+}
+/* overwrite background again */
+table.css2 tbody tr + tr td + td + td { 
+  background-color: inherit;
+}
+table.spacelaw tbody td+td+td+td {
+  background-color: rgba(216, 57, 17, 0.623);
+}
+table.spacelaw tbody td+td+td {
+  background-color: rgba(196, 199, 18, 0.603);
+}
+table.spacelaw tbody td+td {
+  background-color: rgba(21, 180, 29, 0.589);
+}
+table.spacelaw tbody td {
+  background-color: rgba(0, 0, 0, 0.233);
+}
+table.sentencingmodifiers tbody tr  {
+  background-color: rgb(128, 19, 19);
+}
+table.sentencingmodifiers tbody tr+tr  {
+  background-color: rgba(209, 24, 24, 0);
+}
+table.prisonerabuse tbody tr {
+  background-color: rgb(133, 22, 22);
+}
+table.prisonerabuse tbody tr+tr {
+  background-color: rgba(156, 22, 22, 0);
+}
+
+.sentencingmodifiers {
+  width: 962px;
+  margin: center;
+  vertical-align: bottom;
+  text-align: center;
+  height: center;
+}
+.prisonerabuse {
+  width: 962px;
+  margin: center;
+  vertical-align: center;
+  text-align: center;
+  height: center;
+}
+.spacelaw {
+  width: 962px;
+  margin: center;
+  vertical-align: bottom;
+  text-align: center;
+  height: center;
+}
+table.spacelaw {
+  border-collapse: collapse;
+  /*убираем пустые промежутки между ячейками*/
+  border: 1px solid rgb(0, 0, 0);
+  /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+td {
+  border: 1px solid rgb(0, 0, 0);
+}
+table {
+  border-top: 1px solid rgb(0, 0, 0);
+}
+/* задаём для ячейки тела таблицы границу серого цвета толщиной 1px */
+td {
+  border-bottom: 0.5px solid rgb(0, 0, 0);
+}
+table {
+  width: 962px;
+}
+th {
+  width: 20%;
+}
+td:first-child {
+  width: 10%;
+}
+
+table.prisonerabuse {
+  border-collapse: collapse;
+  /*убираем пустые промежутки между ячейками*/
+  border: 2px solid rgb(0, 0, 0);
+  /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+table.sentencingmodifiers {
+  border-collapse: collapse;
+  /*убираем пустые промежутки между ячейками*/
+  border: 2px solid rgb(0, 0, 0);
+  /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
