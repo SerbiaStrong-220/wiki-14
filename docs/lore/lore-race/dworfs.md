@@ -1,7 +1,6 @@
 #Дворфы
 !!! ss220 inline end "Дварфы"
     ![dwarfs](../../images/Lore/Race/dworf/dworf.png)
->>>>>>> main
     ---
     ####Основная информация  
     <li>Родной мир - планета Гаурдин
