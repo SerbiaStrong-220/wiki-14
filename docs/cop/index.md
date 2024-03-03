@@ -16,28 +16,28 @@
 </thead-->
 <tbody>
 <tr>
-<td><a href="/cop/command/"><img alt="alt text" src="/images/cop/mainpage/com_dep.png"></a><br>
-<strong><a href="/cop/command/">Командование</strong></a></td>
-<td><img alt="alt text" src="/images/cop/mainpage/sec_dep.png"><br>
+<td><a href="../cop/command/"><img alt="alt text" src="../images/cop/mainpage/com_dep.png"></a><br>
+<strong><a href="../cop/command/">Командование</strong></a></td>
+<td><img alt="alt text" src="../images/cop/mainpage/sec_dep.png"><br>
 <strong>Служба Безопасности</strong></td>
-<td><a href="/cop/law/"><img alt="alt text" src="/images/cop/mainpage/law_dep.png"></a><br>
-<strong><a href="/cop/law/">Юридический отдел</strong></a></td>
+<td><a href="../cop/law/"><img alt="alt text" src="../images/cop/mainpage/law_dep.png"></a><br>
+<strong><a href="../cop/law/">Юридический отдел</strong></a></td>
 </tr>
 <tr>
 <tr>
-<td><img alt="alt text" src="/images/cop/mainpage/cargo_dep.png"><br>
+<td><img alt="alt text" src="../images/cop/mainpage/cargo_dep.png"><br>
 <strong>Отдел снабжения</strong></td>
-<td><img alt="alt text" src="/images/cop/mainpage/centcom_dep.png"><br>
+<td><img alt="alt text" src="../images/cop/mainpage/centcom_dep.png"><br>
 <strong>Центральное Командование</strong></td>
-<td><img alt="alt text" src="/images/cop/mainpage/eng_dep.png"><br>
+<td><img alt="alt text" src="../images/cop/mainpage/eng_dep.png"><br>
 <strong>Инжернерный отдел</strong></td>
 </tr>
 <tr>
-<td><img alt="alt text" src="/images/cop/mainpage/sci_dep.png"><br>
+<td><img alt="alt text" src="../images/cop/mainpage/sci_dep.png"><br>
 <strong>Научный отдел</strong></td>
-<td><img alt="alt text" src="/images/cop/mainpage/med_dep.png"><br>
+<td><img alt="alt text" src="../images/cop/mainpage/med_dep.png"><br>
 <strong>Медицинский отдел</strong></td>
-<td><img alt="alt text" src="/images/cop/mainpage/serv_dep.png"><br>
+<td><img alt="alt text" src="../images/cop/mainpage/serv_dep.png"><br>
 <strong>Сервисный отдел</strong></td>
 </tr>
 </tbody>
