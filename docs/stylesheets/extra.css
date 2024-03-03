@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+/* Импорт шрифтов */
+
+/* 
+ * SS220 SS14 Вики 
+ * Файл с дополнительными стилями 
+
+ 0. Понамешанное
+ 1. Модификация темы
+ 2. Дополнительные стили таблиц
+ 2.1. Таблицы ролей
+*/
+
+/* 0. Понамешанное */
+
 .md-grid {
   max-width: 1600px;
 }
@@ -99,4 +115,217 @@ table.sentencingmodifiers {
   /*убираем пустые промежутки между ячейками*/
   border: 2px solid rgb(0, 0, 0);
   /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+
+
+
+/* 1. Модификация темы */
+
+:root {
+  --md-text-font: Inter, sans-serif;
+  --md-default-fg-color--light: #fff;
+}
+
+body {
+  font-family: "Inter", sans-serif !important;
+}
+
+.md-header {
+}
+
+.md-search__form {
+  border-radius: 6px !important;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+  border-radius: 8px !important;
+}
+
+.md-footer__inner:not([hidden]) {
+  display: flex;
+  height: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.md-typeset h1, .md-typeset h2 {
+  font-weight: 600;
+  color: #fff;
+}
+
+strong {
+  font-weight: 600;
+}
+
+/* 2. Дополнительные стили таблиц */
+
+
+/* 2.1. Таблицы ролей */
+
+.ss220-roles-23721 {
+  /* height: 128px !important; */
+  min-height: 128px !important;
+  max-height: 128px !important;
+  max-width: 1920px !important;
+}
+
+.ss220-roles-23723 {
+  border: 0rem;
+  text-align: center;   
+  font-size: .8rem;
+}
+
+
+.ss220-roles-23726 {
+  font-size: .8rem;
+}
+
+.ss220-roles-23730 {
+  border-color: #ff4d4d !important;
+}
+
+.ss220-roles-23732 {
+  background-color: #ff4d4d1a !important;
+}
+
+.ss220-roles-23736 {
+  width: 20%; !important;
+  text-align: center;   
+}
+
+.ss220-roles-23739 {
+  width: 80%; !important;
+}
+
+.ss220-roles-23740 {
+  border-color: #4dfff0 !important;
+}
+
+.ss220-roles-23742 {
+  background-color: #4dffff1a !important;
+}
+
+.ss220-roles-23750 {
+  border-color: #7c4dff !important;
+}
+
+.ss220-roles-23752 {
+  background-color: #7c4dff1a !important;
+}
+
+.ss220-roles-23760 {
+  border-color: #fffc4d !important;
+}
+
+.ss220-roles-23762 {
+  background-color: #fffc4d1a !important;
+}
+
+.ss220-roles-23770 {
+  border-color: #ffa34d !important;
+}
+
+.ss220-roles-23772 {
+  background-color: #ffa34d1a !important;
+}
+
+.ss220-roles-23780 {
+  border-color: #4dff65 !important;
+}
+
+.ss220-roles-23782 {
+  background-color: #4dff651a !important;
+}
+
+.ss220-roles-23790 {
+  border-color: #9b9b9b !important;
+}
+
+.ss220-roles-23792 {
+  background-color: #7e7e7e1a !important;
+}
+
+/* 2.2. Космический закон */
+
+.ss220-spacelaw-21231 td {
+  padding: 12px;
+  text-align: center !important;
+  border: 0px;
+}
+
+.ss220-spacelaw-21231 th {
+  padding: 12px;
+  text-align: center !important;
+  border: 0px;
+}
+
+.ss220-spacelaw-21233 {
+  width: 2%;
+}
+
+.ss220-spacelaw-21236 {
+  width: 19.6%;
+}
+
+.ss220-spacelaw-21230-1 {
+  background-color: rgb(105, 143, 67);
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-2 {
+  background-color: rgb(166, 155, 56);
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-3 {
+  background-color: #111;
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-4 {
+  background-color: rgb(176, 101, 58);
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-5 {
+  background-color: rgb(150, 53, 53);
+  color: #fff;
+}
+
+
+/* 2.3. СРП */
+
+
+/*
+.ss220-cop-21231 td {
+  padding: 14px !important;
+  text-align: center !important;
+  border: 0px;
+  font-size: 32px !important;
+  border: 1px #fff;
+  border-left: .05rem solid var(--md-typeset-table-color) !important;
+  width: 33%;
+  line-height: 1.1em;
+}
+*/
+
+.ss220-cop-21231 td {
+  padding: 36px !important;
+  text-align: center !important;
+  border: 0px;
+  font-size: 28px !important;
+  border: 1px #fff;
+  border-left: .05rem solid var(--md-typeset-table-color) !important;
+  width: 33%;
+  line-height: 1.1em;
+}
+
+.ss220-cop-21231 th {
+  padding: 12px;
+  text-align: center !important;
+  border: 0px;
+}
+
+.ss220-cop-21231 a {
+  color: #d3f5ff !important;
 }

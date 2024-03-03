@@ -1,13 +1,57 @@
-# **Стандартные рабочие процедуры**
-!!! note "Стандартные Рабочие Процедуры (СРП)"
-    Стандартные Рабочие Процедуры представляют собой набор руководящих принципов, которым необходимо следовать в соответствующих им обстоятельствах. Нарушение СРП без уважительной причины может являться основанием для понижения в должности, увольнения или даже заключения под стражу, в зависимости от тяжести нарушения и мнения главы соответствующего отдела.
-# **Стандартные Рабочие Процедуры отделов**
-<div class="cop1" markdown>
+# **Стандартные Рабочие Процедуры**
+
+**Стандартные Рабочие Процедуры** (СРП) представляют собой набор руководящих принципов, которым необходимо следовать в соответствующих им обстоятельствах. Нарушение СРП без уважительной причины может являться основанием для понижения в должности, увольнения или даже заключения под стражу, в зависимости от тяжести нарушения и мнения главы соответствующего отдела.
+
+## **Ведомственные СРП**
+
+<!-- Таблица с СРП -->
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table ss220-cop-21231"><table style="border-radius: 12px">
+<!--thead>
+<tr>
+<th>Командование</th>
+<th>Служба безопасности</th>
+<th>Юридический</th>
+</tr>
+</thead-->
+<tbody>
+<tr>
+<td><a href="/cop/command/"><img alt="alt text" src="../../images/cop/mainpage/com_dep.png"></a><br>
+<strong><a href="/cop/command/">Командование</strong></a></td>
+<td><img alt="alt text" src="../../images/cop/mainpage/sec_dep.png"><br>
+<strong>Служба Безопасности</strong></td>
+<td><a href="/cop/law/"><img alt="alt text" src="../../images/cop/mainpage/law_dep.png"></a><br>
+<strong><a href="/cop/law/">Юридический отдел</strong></a></td>
+</tr>
+<tr>
+<tr>
+<td><img alt="alt text" src="../../images/cop/mainpage/cargo_dep.png"><br>
+<strong>Отдел снабжения</strong></td>
+<td><img alt="alt text" src="../../images/cop/mainpage/centcom_dep.png"><br>
+<strong>Центральное Командование</strong></td>
+<td><img alt="alt text" src="../../images/cop/mainpage/eng_dep.png"><br>
+<strong>Инжернерный отдел</strong></td>
+</tr>
+<tr>
+<td><img alt="alt text" src="../../images/cop/mainpage/sci_dep.png"><br>
+<strong>Научный отдел</strong></td>
+<td><img alt="alt text" src="../../images/cop/mainpage/med_dep.png"><br>
+<strong>Медицинский отдел</strong></td>
+<td><img alt="alt text" src="../../images/cop/mainpage/serv_dep.png"><br>
+<strong>Сервисный отдел</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+
+<!-- Конец таблицы с СРП -->
+
+
+<!--div class="cop1" markdown>
 | | | |
 | :--: | :--: | :--: |
-|<font size="6"> [![alt text](../images/cop/mainpage/com_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Командование](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/sec_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Служба безопасности](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/law_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Юридический](/COP/COPdepartment/commandcop/) |
-|<font size="6"> [![alt text](../images/cop/mainpage/cargo_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Снабжение](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/centcom_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Центральное командование](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/eng_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Инжернерный](/COP/COPdepartment/commandcop/) |
-|<font size="6"> [![alt text](../images/cop/mainpage/sci_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Научный](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/med_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Медицинский](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/serv_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Сервисный](/COP/COPdepartment/commandcop/) |
+|<font size="6"> [![alt text](../images/cop/mainpage/com_dep.png)](/COP/Departaments/commandcop/) <br/> [Командование](/COP/Departaments/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/sec_dep.png)](/COP/Departaments/commandcop/) <br/> [Служба безопасности](/COP/Departaments/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/law_dep.png)](/COP/Departaments/commandcop/) <br/> [Юридический](/COP/Departaments/commandcop/) |
+|<font size="6"> [![alt text](../images/cop/mainpage/cargo_dep.png)](/COP/Departaments/commandcop/) <br/> [Снабжение](/COP/Departaments/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/centcom_dep.png)](/COP/Departaments/commandcop/) <br/> [Центральное командование](/COP/Departaments/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/eng_dep.png)](/COP/Departaments/commandcop/) <br/> [Инжернерный](/COP/Departaments/commandcop/) |
+|<font size="6"> [![alt text](../images/cop/mainpage/sci_dep.png)](/COP/Departaments/commandcop/) <br/> [Научный](/COP/Departaments/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/med_dep.png)](/COP/Departaments/commandcop/) <br/> [Медицинский](/COP/Departaments/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/serv_dep.png)](/COP/Departaments/commandcop/) <br/> [Сервисный](/COP/Departaments/commandcop/) |
 </div>
 
 <style>
@@ -19,9 +63,9 @@ vertical-align: middle;
 font-size: 1em;
 line-height: 130%;
     }
-</style>
+</style-->
 
-# Уровни угроз  
+## Уровни угроз  
 Весь персонал станции, вне зависимости от должности, обязан следовать нормам экипажа в зависимости от кода угрозы.
 Нарушение норм экипажа соответствующего кода является нарушением статьи Сопротивление представителям власти Корпоративного Закона.
 ---
@@ -149,6 +193,7 @@ line-height: 130%;
         ![alt text](../images/cop/mainpage/secret.jpg)
 
 # Чрезвычайные Ситуации
+
 ## Список Чрезвычайных Ситуаций включает в себя:  
 * Введение Гамма кода.  
 * Введение Дельта кода, если ядерная боеголовка не была запущена Центральным Командованием.  
