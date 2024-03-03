@@ -1,8 +1,60 @@
+<<<<<<< Updated upstream:docs/COP/mainpage.md
 # **Стандартные рабочие процедуры**
 !!! note "Стандартные Рабочие Процедуры (СРП)"
     Стандартные Рабочие Процедуры представляют собой набор руководящих принципов, которым необходимо следовать в соответствующих им обстоятельствах. Нарушение СРП без уважительной причины может являться основанием для понижения в должности, увольнения или даже заключения под стражу, в зависимости от тяжести нарушения и мнения главы соответствующего отдела.
 # **Стандартные Рабочие Процедуры отделов**
 <div class="cop1" markdown>
+=======
+# **Стандартные Рабочие Процедуры**
+
+**Стандартные Рабочие Процедуры** (СРП) представляют собой набор руководящих принципов, которым необходимо следовать в соответствующих им обстоятельствах. Нарушение СРП без уважительной причины может являться основанием для понижения в должности, увольнения или даже заключения под стражу, в зависимости от тяжести нарушения и мнения главы соответствующего отдела.
+
+## **Ведомственные СРП**
+
+<!-- Таблица с СРП -->
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table ss220-cop-21231"><table style="border-radius: 12px">
+<!--thead>
+<tr>
+<th>Командование</th>
+<th>Служба безопасности</th>
+<th>Юридический</th>
+</tr>
+</thead-->
+<tbody>
+<tr>
+<td><a href="/cop/command/"><img alt="alt text" src="/images/cop/mainpage/com_dep.png"></a><br>
+<strong><a href="/cop/command/">Командование</strong></a></td>
+<td><img alt="alt text" src="/images/cop/mainpage/sec_dep.png"><br>
+<strong>Служба Безопасности</strong></td>
+<td><a href="/cop/law/"><img alt="alt text" src="/images/cop/mainpage/law_dep.png"></a><br>
+<strong><a href="/cop/law/">Юридический отдел</strong></a></td>
+</tr>
+<tr>
+<tr>
+<td><img alt="alt text" src="/images/cop/mainpage/cargo_dep.png"><br>
+<strong>Отдел снабжения</strong></td>
+<td><img alt="alt text" src="/images/cop/mainpage/centcom_dep.png"><br>
+<strong>Центральное Командование</strong></td>
+<td><img alt="alt text" src="/images/cop/mainpage/eng_dep.png"><br>
+<strong>Инжернерный отдел</strong></td>
+</tr>
+<tr>
+<td><img alt="alt text" src="/images/cop/mainpage/sci_dep.png"><br>
+<strong>Научный отдел</strong></td>
+<td><img alt="alt text" src="/images/cop/mainpage/med_dep.png"><br>
+<strong>Медицинский отдел</strong></td>
+<td><img alt="alt text" src="/images/cop/mainpage/serv_dep.png"><br>
+<strong>Сервисный отдел</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+
+<!-- Конец таблицы с СРП -->
+
+
+<!--div class="cop1" markdown>
+>>>>>>> Stashed changes:docs/cop/index.md
 | | | |
 | :--: | :--: | :--: |
 |<font size="6"> [![alt text](../images/cop/mainpage/com_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Командование](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/sec_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Служба безопасности](/COP/COPdepartment/commandcop/) |<font size="6">[![alt text](../images/cop/mainpage/law_dep.png)](/COP/COPdepartment/commandcop/) <br/> [Юридический](/COP/COPdepartment/commandcop/) |

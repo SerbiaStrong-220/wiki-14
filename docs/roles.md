@@ -1,5 +1,487 @@
+<<<<<<< Updated upstream:docs/roles.md
 #Должности
 <i>Эта вики-страница содержит некоторые отсылки, шутки, сарказм и тупой юмор. Пожалуйста, не следуйте всему, что написано здесь и убедитесь, что в первую очередь вы соблюдаете <a href="/index.php/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0" title="Правила Сервера">правила сервера</a></i>.
+=======
+# Роли
+
+!!! warning "Страница находится в разработке"
+    - <a href="#">Редакторы вики</a> уже ведут работу над данной статьёй. 
+    - При желании, вы можете подать заявку на редактора в нашем <a href="">Discord</a> и тоже принять участие в улучшении статьи.
+    - Данный этап: **В активной разработке**
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://station14.ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cmd_dep.png"><img alt="" src="https://station14.ru/images/thumb/7/73/Cmd_dep.png/64px-Cmd_dep.png" style="max-width: 36px"></a> **Командование**
+</div>
+
+Глава отдела: [**Капитан**](command/captain) <br> 
+Канал отдела: *:к*
+
+<div class="admonition note">
+<p class="admonition-title ss220-roles-23726">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="command/captain" title="Капитан"><img alt="" class="ss220-roles-23721" src="/images/roles/command/1Captain.png"></a></th>
+<th><a href="/images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="/images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CE.png"></a></th>
+<th><a href="/images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="/images/roles/command/6RD.png"></a></th>
+<th><a href="/images/roles/command/4CMO2.png" title="Главный Врач"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CMO2.png"></a></th>
+<th><a href="/images/roles/command/7-QMcargoking.png" title="Квартирмейстр"><img alt="" class="ss220-roles-23721" src="/images/roles/command/7-QMcargoking.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong><a href="command/captain">Капитан</a></strong></td>
+<td class="ss220-roles-23723"><strong>Глава Персонала</strong></td>
+<td class="ss220-roles-23723"><strong>Глава Службы Безопасности</strong></td>
+<td class="ss220-roles-23723"><strong>Старший Инженер</strong></td>
+<td class="ss220-roles-23723"><strong>Научный Руководитель</strong></td>
+<td class="ss220-roles-23723"><strong>Главный Врач</strong></td>
+<td class="ss220-roles-23723"><strong>Квартирмейстр</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: [**Стандартные Рабочие Процедуры (Командование)**](../COP/Departaments/commandcop/) • **Цель станции**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/2FB3PGC/64px-Law-dep.png"><img alt="" src="https://i.ibb.co/2FB3PGC/64px-Law-dep.png  " style="max-width: 36px"></a> **Юридический департамент**
+</div>
+
+Глава отдела: **Магистрат** <br> 
+Канал отдела: *:о*
+
+<div class="admonition note ss220-roles-23730">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23732">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="https://i.ibb.co/wNYw6Bh/1MG.png" title="Магистрат"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/wNYw6Bh/1MG.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+<th><a href="/images/roles/command/2HoP.png" title="Адвокат"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Магистрат</strong></td>
+<td class="ss220-roles-23723"><strong>Агент Внутренних Дел</strong></td>
+<td class="ss220-roles-23723"><strong>Адвокат</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: [**Корпоративный Закон**](../Spacelaw/) • **Стандартные Рабочие Процедуры (Закон)** • [**Ведомственные СРП**](../COP/mainpage/)
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/KmSjVbn/64px-Sec-dep.png"><img alt="" src="https://i.ibb.co/KmSjVbn/64px-Sec-dep.png  " style="max-width: 36px"></a> **Служба Безопасности**
+</div>
+
+Глава отдела: **ГСБ** <br> 
+Канал отдела: *:о*
+
+<div class="admonition note ss220-roles-23730">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23732">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Смотритель"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
+<th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
+<th><a href="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png" title="Офицер СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png"></a></th>
+<th><a href="https://i.ibb.co/XZfPtGJ/3Cadet.png" title="Кадет СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/XZfPtGJ/3Cadet.png"></a></th>
+<th><a href="https://i.ibb.co/phFphQf/5Pilot.png" title="Пилот СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/phFphQf/5Pilot.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Глава Службы Безопасности</strong></td>
+<td class="ss220-roles-23723"><strong>Смотритель</strong></td>
+<td class="ss220-roles-23723"><strong>Детектив</strong></td>
+<td class="ss220-roles-23723"><strong>Офицер СБ</strong></td>
+<td class="ss220-roles-23723"><strong>Кадет СБ</strong></td>
+<td class="ss220-roles-23723"><strong>Пилот СБ</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: [**Корпоративный Закон**](../Spacelaw/) • **Стандартные Рабочие Процедуры (СБ)** • **Контрабанда** • **Снаряжение СБ**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/c1cj6WZ/64px-Med-dep.png"><img alt="" src="https://i.ibb.co/c1cj6WZ/64px-Med-dep.png" style="max-width: 36px"></a> **Медицинский отдел**
+</div>
+
+Глава отдела: **Главный Врач** <br> 
+Канал отдела: *:м*
+
+<div class="admonition note ss220-roles-23740">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23742">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/4CMO2.png" title="Главный Врач"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CMO2.png"></a></th>
+<th><a href="https://i.ibb.co/p0bCLqC/220Chem.png" title="Химик"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/p0bCLqC/220Chem.png"></a></th>
+<th><a href="https://i.ibb.co/yRzRpWY/220-Doctor.png" title="Врач"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/yRzRpWY/220-Doctor.png"></a></th>
+<th><a href="https://i.ibb.co/PrhHBvZ/220-Paramed.png" title="Парамедик "><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/PrhHBvZ/220-Paramed.png"></a></th>
+<th><a href="https://i.ibb.co/z5Qn00J/220Psyc.png" title="Психолог"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/z5Qn00J/220Psyc.png"></a></th>
+<th><a href="https://i.ibb.co/SXx3kLT/220-Intern.png" title="Интерн"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/SXx3kLT/220-Intern.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Главный Врач</strong></td>
+<td class="ss220-roles-23723"><strong>Химик</strong></td>
+<td class="ss220-roles-23723"><strong>Врач</strong></td>
+<td class="ss220-roles-23723"><strong>Парамедик</strong></td>
+<td class="ss220-roles-23723"><strong>Психолог</strong></td>
+<td class="ss220-roles-23723"><strong>Интерн</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+<div class="admonition note ss220-roles-23740">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23742">Нестандартные роли:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/3HoS1.png" title="Вирусолог"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Хирург"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
+<th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Паталогоанатом"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
+<th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Криогенник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
+<th><a href="https://i.ibb.co/rk9zkgy/6BM.png" title="Бригмедик"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/rk9zkgy/6BM.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Вирусолог</strong></td>
+<td class="ss220-roles-23723"><strong>Хирург</strong></td>
+<td class="ss220-roles-23723"><strong>Паталогоанатом</strong></td>
+<td class="ss220-roles-23723"><strong>Криогенник</strong></td>
+<td class="ss220-roles-23723"><strong>Бригмедик</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: **Медицина** • **Химия** • **Стандартные Рабочие Процедуры (Медицина)** • **Констрабанда** • **Медицинский инвентарь** • **Таблица психических заболеваний**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/GMBrQwq/64px-Sci-dep.png"><img alt="" src="https://i.ibb.co/GMBrQwq/64px-Sci-dep.png" style="max-width: 36px"></a> **Научный отдел**
+</div>
+
+Глава отдела: **Научный Руководитель** <br> 
+Канал отдела: *:н*
+
+<div class="admonition note ss220-roles-23750">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23752">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="/images/roles/command/6RD.png"></a></th>
+<th><a href="https://i.ibb.co/gP8ZFRq/Sci.png" title="Учёный"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/gP8ZFRq/Sci.png"></a></th>
+<th><a href="https://i.ibb.co/xF4Cf93/SciAss.png" title="Начный ассистент"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/xF4Cf93/SciAss.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Научный Руководитель</strong></td>
+<td class="ss220-roles-23723"><strong>Учёный</strong></td>
+<td class="ss220-roles-23723"><strong>Начный ассистент</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: **Стандартные Рабочие Процедуры (Наука)** • **Руководство по исследованию и разработке** • **Постройка компьютеров и машинерии** • **Руководство по робототехнике** • **Руководство по ксеноархеологии** • **Руководство по аномалиям**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/xMMgKCZ/64px-Eng-dep.png"><img alt="" src="https://i.ibb.co/xMMgKCZ/64px-Eng-dep.png" style="max-width: 36px"></a> **Инженерный отдел**
+</div>
+
+Глава отдела: **Старший Инженер** <br> 
+Канал отдела: *:и*
+
+<div class="admonition note ss220-roles-23760">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23762">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CE.png"></a></th>
+<th><a href="https://i.ibb.co/WBDQN9W/Atm.png" title="Атмосферный Техник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/WBDQN9W/Atm.png"></a></th>
+<th><a href="https://i.ibb.co/sy3GNpf/Eng.png" title="Инженер"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/sy3GNpf/Eng.png"></a></th>
+<th><a href="https://i.ibb.co/sbc1jJS/TechAss.png" title="Технический ассистент"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/sbc1jJS/TechAss.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Старший Инженер</strong></td>
+<td class="ss220-roles-23723"><strong>Атмосферный Техник</strong></td>
+<td class="ss220-roles-23723"><strong>Инженер</strong></td>
+<td class="ss220-roles-23723"><strong>Технический ассистент</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: **Стандартные Рабочие Процедуры (Инженерия)** • **Электроэнергия** • **Сингулярный двигатель** • **Руководство по атмосфере** • **Руководство по взлому** • **Смешивание газов**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/vwH5ZxK/64px-Cargo-dep.png"><img alt="" src="https://i.ibb.co/vwH5ZxK/64px-Cargo-dep.png" style="max-width: 36px"></a> **Отдел снабжения**
+</div>
+
+Глава отдела: **Квартирмейстр** <br> 
+Канал отдела: *:п*
+
+<div class="admonition note ss220-roles-23770">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23772">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/7-QMcargoking.png" title="Квартирмейстр"><img alt="" class="ss220-roles-23721" src="/images/roles/command/7-QMcargoking.png"></a></th>
+<th><a href="https://i.ibb.co/T0NkWYR/SalvSpec.png" title="Утилизатор"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/T0NkWYR/SalvSpec.png"></a></th>
+<th><a href="https://i.ibb.co/Bf5Ms4S/Cargotech.png" title="Грузчик"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Bf5Ms4S/Cargotech.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Квартирмейстр</strong></td>
+<td class="ss220-roles-23723"><strong>Утилизатор</strong></td>
+<td class="ss220-roles-23723"><strong>Грузчик</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: **Стандартные Рабочие Процедуры (Снабжение)**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/MV22mf3/64px-Serv-dep.png"><img alt="" src="https://i.ibb.co/MV22mf3/64px-Serv-dep.png" style="max-width: 36px"></a> **Сервисный отдел**
+</div>
+
+Глава отдела: **Глава Персонала** <br> 
+Канал отдела: *:с*
+
+<div class="admonition note ss220-roles-23780">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23782">Сотрудники отдела:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Шеф-повар"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
+<th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
+<th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Шеф-повар"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
+<th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
+<th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Шеф-повар"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
+<th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Глава Персонала</strong></td>
+<td class="ss220-roles-23723"><strong>Шеф-повар</strong></td>
+<td class="ss220-roles-23723"><strong>Ботаник</strong></td>
+<td class="ss220-roles-23723"><strong>Бармен</strong></td>
+<td class="ss220-roles-23723"><strong>Сервисный работник</strong></td>
+<td class="ss220-roles-23723"><strong>Боксер</strong></td>
+<td class="ss220-roles-23723"><strong>Уборщик</strong></td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th><a href="/images/roles/command/2HoP.png" title="Библиотекарь"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Священник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
+<th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
+<th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Зоотехник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
+<th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Репортер"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
+<th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Шеф-повар"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
+<th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Библиотекарь</strong></td>
+<td class="ss220-roles-23723"><strong>Священник</strong></td>
+<td class="ss220-roles-23723"><strong>Зоотехник</strong></td>
+<td class="ss220-roles-23723"><strong>Репортер</strong></td>
+<td class="ss220-roles-23723"><strong>Мызыкант</strong></td>
+<td class="ss220-roles-23723"><strong>Пассажир</strong></td>
+<td class="ss220-roles-23723"><strong>Мим</strong></td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th><a href="/images/roles/command/2HoP.png" title="Клоун"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Клоун</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства: **Стандартные Рабочие Процедуры (Сервис)**
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+## Антагонисты
+
+Глава: *Ситуативно* <br> 
+Канал: *:т*
+
+<div class="admonition note ss220-roles-23730">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23732">Ими являются:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Смотритель"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
+<th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
+<th><a href="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png" title="Офицер СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png"></a></th>
+<th><a href="https://i.ibb.co/XZfPtGJ/3Cadet.png" title="Кадет СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/XZfPtGJ/3Cadet.png"></a></th>
+<th><a href="https://i.ibb.co/phFphQf/5Pilot.png" title="Пилот СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/phFphQf/5Pilot.png"></a></th>
+<th><a href="https://i.ibb.co/phFphQf/5Pilot.png" title="Пилот СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/phFphQf/5Pilot.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Предатели</strong></td>
+<td class="ss220-roles-23723"><strong>Ядерные Оперативники</strong></td>
+<td class="ss220-roles-23723"><strong>Нулевые пациенты</strong></td>
+<td class="ss220-roles-23723"><strong>Терминаторы</strong></td>
+<td class="ss220-roles-23723"><strong>Пираты</strong></td>
+<td class="ss220-roles-23723"><strong>Злой двойник</strong></td>
+<td class="ss220-roles-23723"><strong>Крысиный король</strong></td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Смотритель"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
+<th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
+<th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Космический дракон</strong></td>
+<td class="ss220-roles-23723"><strong>Ревенант</strong></td>
+<td class="ss220-roles-23723"><strong>Жнец</strong></td>
+<td class="ss220-roles-23723"><strong>Враждебные существа</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<div markdown>
+## <a href="https://i.ibb.co/KXw5b1K/64px-Centcom-dep.png"><img alt="" src="https://i.ibb.co/KXw5b1K/64px-Centcom-dep.png" style="max-width: 36px"></a> **Центральное Командование**
+</div>
+
+Канал: *:ц*
+
+<div class="admonition note ss220-roles-23780">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23782">Члены ЦК:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="https://i.ibb.co/wNYw6Bh/1MG.png" title="Магистрат"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/wNYw6Bh/1MG.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th> 
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Представитель ЦК</strong></td>
+<td class="ss220-roles-23723"><strong>Оператор ЦК</strong></td>
+<td class="ss220-roles-23723"><strong>Офицер Специальных Операций</strong></td>
+<td class="ss220-roles-23723"><strong>ОБР</strong></td>
+<td class="ss220-roles-23723"><strong>РХБЗЗ</strong></td>
+<td class="ss220-roles-23723"><strong>Экскадрон смерти</strong></td>
+<td class="ss220-roles-23723"><strong>Офицер «Синий Щит»</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства:
+
+<!-- Конец блока ролей -->
+
+<!-- Блок ролей -->
+
+<h2 id="_2"><a href="https://i.ibb.co/SxBg4Vn/64px.png"><img alt="" src="https://i.ibb.co/SxBg4Vn/64px.png" style="max-width: 36px"></a> <strong>Гост-роли</strong></h2>
+
+<div class="admonition note ss220-roles-23790">
+<p class="admonition-title ss220-roles-23726 ss220-roles-23792">Члены ЦК:</p>
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
+<thead>
+<tr>
+<th><a href="https://i.ibb.co/wNYw6Bh/1MG.png" title="Магистрат"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/wNYw6Bh/1MG.png"></a></th>
+<th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ss220-roles-23723"><strong>Животные</strong></td>
+<td class="ss220-roles-23723"><strong>Синтетики</strong></td>
+</tr>
+</tbody>
+</table></div></div>
+</div>
+
+Связанные руководства:
+
+<!-- Конец блока ролей -->
+
+
+
+<!--i>Эта вики-страница содержит некоторые отсылки, шутки, сарказм и тупой юмор. Пожалуйста, не следуйте всему, что написано здесь и убедитесь, что в первую очередь вы соблюдаете <a href="/index.php/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0" title="Правила Сервера">правила сервера</a></i>.
+>>>>>>> Stashed changes:docs/roles/index.md
 </p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
