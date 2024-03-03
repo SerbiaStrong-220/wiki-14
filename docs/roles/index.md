@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream:docs/roles.md
-#Должности
-<i>Эта вики-страница содержит некоторые отсылки, шутки, сарказм и тупой юмор. Пожалуйста, не следуйте всему, что написано здесь и убедитесь, что в первую очередь вы соблюдаете <a href="/index.php/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0" title="Правила Сервера">правила сервера</a></i>.
-=======
 # Роли
 
 !!! warning "Страница находится в разработке"
@@ -23,13 +19,13 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="command/captain" title="Капитан"><img alt="" class="ss220-roles-23721" src="/images/roles/command/1Captain.png"></a></th>
-<th><a href="/images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
-<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
-<th><a href="/images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CE.png"></a></th>
-<th><a href="/images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="/images/roles/command/6RD.png"></a></th>
-<th><a href="/images/roles/command/4CMO2.png" title="Главный Врач"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CMO2.png"></a></th>
-<th><a href="/images/roles/command/7-QMcargoking.png" title="Квартирмейстр"><img alt="" class="ss220-roles-23721" src="/images/roles/command/7-QMcargoking.png"></a></th>
+<th><a href="command/captain" title="Капитан"><img alt="" class="ss220-roles-23721" src="images/roles/command/1Captain.png"></a></th>
+<th><a href="images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="images/roles/command/2HoP.png"></a></th>
+<th><a href="images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="images/roles/command/3HoS1.png"></a></th>
+<th><a href="images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="images/roles/command/4CE.png"></a></th>
+<th><a href="images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="images/roles/command/6RD.png"></a></th>
+<th><a href="images/roles/command/4CMO2.png" title="Главный Врач"><img alt="" class="ss220-roles-23721" src="images/roles/command/4CMO2.png"></a></th>
+<th><a href="images/roles/command/7-QMcargoking.png" title="Квартирмейстр"><img alt="" class="ss220-roles-23721" src="images/roles/command/7-QMcargoking.png"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -66,7 +62,7 @@
 <tr>
 <th><a href="https://i.ibb.co/wNYw6Bh/1MG.png" title="Магистрат"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/wNYw6Bh/1MG.png"></a></th>
 <th><a href="https://i.ibb.co/Ky2xCnC/1AIA2.png" title="Агент Внутренних Дел"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Ky2xCnC/1AIA2.png"></a></th>
-<th><a href="/images/roles/command/2HoP.png" title="Адвокат"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="images/roles/command/2HoP.png" title="Адвокат"><img alt="" class="ss220-roles-23721" src="images/roles/command/2HoP.png"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -97,7 +93,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="images/roles/command/3HoS1.png"></a></th>
 <th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Смотритель"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
 <th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
 <th><a href="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png" title="Офицер СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png"></a></th>
@@ -136,7 +132,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/4CMO2.png" title="Главный Врач"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CMO2.png"></a></th>
+<th><a href="images/roles/command/4CMO2.png" title="Главный Врач"><img alt="" class="ss220-roles-23721" src="images/roles/command/4CMO2.png"></a></th>
 <th><a href="https://i.ibb.co/p0bCLqC/220Chem.png" title="Химик"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/p0bCLqC/220Chem.png"></a></th>
 <th><a href="https://i.ibb.co/yRzRpWY/220-Doctor.png" title="Врач"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/yRzRpWY/220-Doctor.png"></a></th>
 <th><a href="https://i.ibb.co/PrhHBvZ/220-Paramed.png" title="Парамедик "><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/PrhHBvZ/220-Paramed.png"></a></th>
@@ -162,7 +158,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/3HoS1.png" title="Вирусолог"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="images/roles/command/3HoS1.png" title="Вирусолог"><img alt="" class="ss220-roles-23721" src="images/roles/command/3HoS1.png"></a></th>
 <th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Хирург"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
 <th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Паталогоанатом"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
 <th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Криогенник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
@@ -199,7 +195,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="/images/roles/command/6RD.png"></a></th>
+<th><a href="images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="images/roles/command/6RD.png"></a></th>
 <th><a href="https://i.ibb.co/gP8ZFRq/Sci.png" title="Учёный"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/gP8ZFRq/Sci.png"></a></th>
 <th><a href="https://i.ibb.co/xF4Cf93/SciAss.png" title="Начный ассистент"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/xF4Cf93/SciAss.png"></a></th>
 </tr>
@@ -232,7 +228,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="/images/roles/command/4CE.png"></a></th>
+<th><a href="images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="images/roles/command/4CE.png"></a></th>
 <th><a href="https://i.ibb.co/WBDQN9W/Atm.png" title="Атмосферный Техник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/WBDQN9W/Atm.png"></a></th>
 <th><a href="https://i.ibb.co/sy3GNpf/Eng.png" title="Инженер"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/sy3GNpf/Eng.png"></a></th>
 <th><a href="https://i.ibb.co/sbc1jJS/TechAss.png" title="Технический ассистент"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/sbc1jJS/TechAss.png"></a></th>
@@ -267,7 +263,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/7-QMcargoking.png" title="Квартирмейстр"><img alt="" class="ss220-roles-23721" src="/images/roles/command/7-QMcargoking.png"></a></th>
+<th><a href="images/roles/command/7-QMcargoking.png" title="Квартирмейстр"><img alt="" class="ss220-roles-23721" src="images/roles/command/7-QMcargoking.png"></a></th>
 <th><a href="https://i.ibb.co/T0NkWYR/SalvSpec.png" title="Утилизатор"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/T0NkWYR/SalvSpec.png"></a></th>
 <th><a href="https://i.ibb.co/Bf5Ms4S/Cargotech.png" title="Грузчик"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Bf5Ms4S/Cargotech.png"></a></th>
 </tr>
@@ -300,7 +296,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="images/roles/command/2HoP.png"></a></th>
 <th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Шеф-повар"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
 <th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
 <th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Шеф-повар"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
@@ -322,7 +318,7 @@
 </tbody>
 <thead>
 <tr>
-<th><a href="/images/roles/command/2HoP.png" title="Библиотекарь"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="images/roles/command/2HoP.png" title="Библиотекарь"><img alt="" class="ss220-roles-23721" src="images/roles/command/2HoP.png"></a></th>
 <th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Священник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
 <th><a href="https://i.ibb.co/m5jNZBD/botan.png" title="Ботаник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/m5jNZBD/botan.png"></a></th>
 <th><a href="https://i.ibb.co/Qn7YY84/chef.png" title="Зоотехник"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/Qn7YY84/chef.png"></a></th>
@@ -344,7 +340,7 @@
 </tbody>
 <thead>
 <tr>
-<th><a href="/images/roles/command/2HoP.png" title="Клоун"><img alt="" class="ss220-roles-23721" src="/images/roles/command/2HoP.png"></a></th>
+<th><a href="images/roles/command/2HoP.png" title="Клоун"><img alt="" class="ss220-roles-23721" src="images/roles/command/2HoP.png"></a></th>
 </tr>
 </thead>
 <tbody>
@@ -371,7 +367,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
 <tr>
-<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="images/roles/command/3HoS1.png"></a></th>
 <th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Смотритель"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
 <th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
 <th><a href="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png" title="Офицер СБ"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/NjLCzHM/2-Officer-Beret.png"></a></th>
@@ -393,7 +389,7 @@
 </tbody>
 <thead>
 <tr>
-<th><a href="/images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="/images/roles/command/3HoS1.png"></a></th>
+<th><a href="images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="images/roles/command/3HoS1.png"></a></th>
 <th><a href="https://i.ibb.co/2snxykd/1-Red-Warden.png" title="Смотритель"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/2snxykd/1-Red-Warden.png"></a></th>
 <th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
 <th><a href="https://i.ibb.co/grQGcQD/7Dec.png" title="Детектив"><img alt="" class="ss220-roles-23721" src="https://i.ibb.co/grQGcQD/7Dec.png"></a></th>
@@ -481,7 +477,6 @@
 
 
 <!--i>Эта вики-страница содержит некоторые отсылки, шутки, сарказм и тупой юмор. Пожалуйста, не следуйте всему, что написано здесь и убедитесь, что в первую очередь вы соблюдаете <a href="/index.php/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0" title="Правила Сервера">правила сервера</a></i>.
->>>>>>> Stashed changes:docs/roles/index.md
 </p>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
@@ -1844,4 +1839,4 @@
 <li><a href="/index.php/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8_%D0%B8_%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%B7%D0%BB%D0%BE%D0%B4%D0%B5%D0%B8" class="mw-redirect" title="Супергерои и суперзлодеи">Супергерои и суперзлодеи</a></li>
 <li><a href="/index.php/%D0%93%D0%BE%D1%80%D0%B5%D1%86" class="mw-redirect" title="Горец">Горец</a></li>
 <li><a href="/index.php/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B2%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%80%D0%BE%D0%BB%D0%B8" title="Специальные ивентовые роли">Специальные ивентовые роли</a></li></ul>
-</td></tr></tbody></table>
+</td></tr></tbody></table-->
