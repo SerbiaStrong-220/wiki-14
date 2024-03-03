@@ -1,6 +1,6 @@
 #Дионы
 !!! ss220 inline end "Дионы"
-    ![diona](/images/Lore/Race/diona/dionastart.png)
+    ![diona](../../images/Lore/Race/diona/dionastart.png)
     ---
     ####Основная информация  
     <li>Родной мир - Джуйя
