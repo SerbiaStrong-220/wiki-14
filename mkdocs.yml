@@ -1,7 +1,7 @@
 site_name: SS220 SS14 Wiki
 repo_url: https://github.com/SerbiaStrong-220/wiki-14
 repo_name: SerbiaStrong-220/wiki-14
-copyright: Copyright &copy; 2023 SS220. Written and maintained by SS220 community.
+copyright: Copyright &copy; 2024 SS220. Written and maintained by SS220 community.
 
 theme:
     name: material
@@ -45,3 +45,5 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
   - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
