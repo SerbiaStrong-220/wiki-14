@@ -153,6 +153,10 @@ body {
   color: #fff;
 }
 
+.md-typeset h3 {
+  font-weight: 500;
+}
+
 strong {
   font-weight: 600;
 }
@@ -328,4 +332,18 @@ strong {
 
 .ss220-cop-21231 a {
   color: #d3f5ff !important;
+}
+
+/* 2.4. Домашняя страница */
+
+@media (min-width: 640px) {
+
+.ss220-home-32131 {
+  width: 50% !important;
+}
+
+.ss220-home-32134 {
+  text-align: center;
+}
+
 }

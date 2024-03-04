@@ -8,7 +8,7 @@
 <!-- Блок ролей -->
 
 <div markdown>
-## <a href="https://station14.ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cmd_dep.png"><img alt="" src="https://station14.ru/images/thumb/7/73/Cmd_dep.png/64px-Cmd_dep.png" style="max-width: 36px"></a> **Командование**
+## <a href="https://station14.ru/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cmd_dep.png"><img alt="" src="https://station14.ru/images/thumb/7/73/Cmd_dep.png/64px-Cmd_dep.png" style="max-width: 36px"></a> [**Командование**](command)
 </div>
 
 Глава отдела: [**Капитан**](command/captain) <br> 
