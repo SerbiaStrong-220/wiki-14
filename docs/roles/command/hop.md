@@ -10,7 +10,7 @@
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table style="border-radius: .5rem;">
 <thead>
 <tr colspan="2" style="background-color: #4e6aff3d;"> <!-- Цвет заголовка, менять первые 6 символов HEX-кода -->
-<th class="ss220-roles-23726"><strong>Капитан</strong></th> <!-- Текст заголовка -->
+<th class="ss220-roles-23726"><strong>Глава Персонала</strong></th> <!-- Текст заголовка -->
 <th></th>
 </tr>
 </thead>

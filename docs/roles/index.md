@@ -20,7 +20,7 @@
 <thead>
 <tr>
 <th><a href="command/captain" title="Капитан"><img alt="" class="ss220-roles-23721" src="../images/roles/command/1Captain.png"></a></th>
-<th><a href="../images/roles/command/2HoP.png" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="../images/roles/command/2HoP.png"></a></th>
+<th><a href="command/hop" title="Глава Персонала"><img alt="" class="ss220-roles-23721" src="../images/roles/command/2HoP.png"></a></th>
 <th><a href="../images/roles/command/3HoS1.png" title="Глава Службы Безопасности"><img alt="" class="ss220-roles-23721" src="../images/roles/command/3HoS1.png"></a></th>
 <th><a href="../images/roles/command/4CE.png" title="Старший Инженер"><img alt="" class="ss220-roles-23721" src="../images/roles/command/4CE.png"></a></th>
 <th><a href="../images/roles/command/6RD.png" title="Научный Руководитель"><img alt="" class="ss220-roles-23721" src="../images/roles/command/6RD.png"></a></th>
@@ -31,7 +31,7 @@
 <tbody>
 <tr>
 <td class="ss220-roles-23723"><strong><a href="command/captain">Капитан</a></strong></td>
-<td class="ss220-roles-23723"><strong>Глава Персонала</strong></td>
+<td class="ss220-roles-23723"><strong><a href="command/hop">Глава Персонала</a></strong></td>
 <td class="ss220-roles-23723"><strong>Глава Службы Безопасности</strong></td>
 <td class="ss220-roles-23723"><strong>Старший Инженер</strong></td>
 <td class="ss220-roles-23723"><strong>Научный Руководитель</strong></td>
