@@ -161,6 +161,83 @@ strong {
   font-weight: 600;
 }
 
+td {
+  border-right: .05rem solid var(--md-typeset-table-color) !important;
+  border: 0px;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  border-radius: 8px;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+}
+
+.md-typeset .admonition.failure, .md-typeset details.failure {
+  border-color: #ff1744;
+}
+
+.md-typeset .failure > .admonition-title, .md-typeset .failure > summary {
+  background-color: #ff17441a;
+}
+
+.md-typeset .admonition.danger, .md-typeset details.danger {
+  border-color: #ff6317;
+}
+
+.md-typeset .danger > .admonition-title, .md-typeset .danger > summary {
+  background-color: #ff63171a;
+}
+
+.md-typeset .danger > .admonition-title::before, .md-typeset .danger > summary::before {
+  background-color: #ff6317;
+  -webkit-mask-image: var(--md-admonition-icon--danger);
+  mask-image: var(--md-admonition-icon--danger);
+}
+
+.md-typeset .danger > .admonition-title::after, .md-typeset .danger > summary::after {
+  color: #ff6317;
+}
+
+
+.md-typeset .admonition.roles, .md-typeset details.roles {
+  border-color: #ff6317;
+} 
+
+.md-typeset .roles > .admonition-title, .md-typeset .roles > summary {
+  background-color: #ff63171a;
+}
+
+.md-typeset .roles > .admonition-title::before, .md-typeset .roles > summary::before {
+  background-color: #ffffff4b;
+  -webkit-mask-image: var(--md-admonition-icon--info);
+  mask-image: var(--md-admonition-icon--info);
+}
+
+.md-typeset .roles > .admonition-title::after, .md-typeset .roles > summary::after {
+  color: #ff6317;
+}
+
+
+.md-typeset .admonition.delta, .md-typeset details.delta {
+  border-color: #3b22b0;
+} 
+
+.md-typeset .delta > .admonition-title, .md-typeset .delta > summary {
+  background-color: #3b22b01a;
+}
+
+.md-typeset .delta > .admonition-title::before, .md-typeset .delta > summary::before {
+  background-color: #3b22b0;
+  -webkit-mask-image: var(--md-admonition-icon--example);
+  mask-image: var(--md-admonition-icon--example);
+}
+
+.md-typeset .delta > .admonition-title::after, .md-typeset .delta > summary::after {
+  color: #3b22b0;
+}
+  
 /* 2. Дополнительные стили таблиц */
 
 
@@ -173,10 +250,21 @@ strong {
   max-width: 1920px !important;
 }
 
+.ss220-roles-23921 {
+  /* height: 128px !important; */
+  min-height: 128px !important;
+  max-height: 148px !important;
+  max-width: 1920px !important;
+}
+
 .ss220-roles-23723 {
   border: 0rem;
   text-align: center;   
   font-size: .8rem;
+}
+
+.ss220-roles-23723 td {
+  border-right: 0px !important;
 }
 
 
@@ -346,4 +434,249 @@ strong {
   text-align: center;
 }
 
+}
+
+/* 2.4.1. Домашняя страница (эксперементальная) */
+
+/* Код в данной части может быть взят с Star Citizen Wiki по открытой лицензии */
+
+.home-grid {
+  display: grid;
+  grid: auto-flow dense/repeat(auto-fit,minmax(9.375rem,1fr));
+    grid-auto-rows: auto;
+  grid-auto-rows: minmax(3rem,auto);
+  grid-gap: 12px
+}
+
+.home-card.home-card--button {
+  overflow: hidden;
+  padding: 0;
+  background: #242a31;
+  border: 0;
+}
+
+.home-card {
+  position: relative;
+  padding: var(--space-md);
+  background: var(--color-surface-1);
+  border: 1px solid var(--border-color-base);
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.04),0 3px 6px rgba(0,0,0,0.0575);
+  font-size: 0.875rem;
+}
+
+.home-card__background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #242a31;
+  border-radius: 8px;
+}
+
+.home-card--button a {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0 var(--space-md);
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+}
+
+.home-card__background img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-card__foreground {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  color: #fff;
+  line-height: 12px;
+  pointer-events: none;
+  font-weight: 600;
+  font-size: .7rem;
+}
+
+
+.home-card--row3 {
+  grid-row: span 3;
+}
+
+.home-card--col2 {
+  grid-column: span 2;
+}
+
+.home-card {
+  position: relative;
+  padding: 20px;
+  background: var(--color-surface-1);
+  border: 1px solid #ffffff23;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.04),0 3px 6px rgba(0,0,0,0.0575);
+  font-size: 0.875rem;
+}
+
+.home-card__background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #242a31;
+  border-radius: 8px;
+}
+
+.home-card {
+  font-size: 0.875rem;
+}
+
+#home-featured .home-card__background a {
+  display: block;
+  height: 100%;
+}
+
+.home-card--button .home-card__background a {
+  padding: 0;
+}
+
+.home-card--button a {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0 12px;
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+}
+
+.home-card__background img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-card__background img {
+  width: 100%;
+  height: 100%;
+}
+
+#home-featured .home-card__foreground {
+  top: unset;
+}
+
+/* .home-card__foreground {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  color: #fff;
+  line-height: auto;
+  pointer-events: none;
+  font-size: .7rem;
+} */
+
+.home-card__foreground .home-card__label {
+  color: #bababa;
+}
+
+.home-card__foreground .home-card__header {
+  color: #fff;
+  font-size: .9rem;
+  line-height: 20px;
+}
+
+#home-gamebuild {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.home-card__label {
+  color: var(--color-base--subtle);
+  font-size: .7rem;
+  letter-spacing: 0.75px;
+}
+
+.home-gamebuild-patch__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.home-gamebuild-patch {
+  display: flex;
+  align-items: center;
+}
+
+.home-gamebuild-patch__name {
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.home-gamebuild-patch__type--live {
+  background: #38d15942 !important;
+  color: #5dec7ca4 !important;
+}
+
+.home-gamebuild-patch__type {
+  padding: 0.1rem 0.6rem;
+  margin-left: 0.4rem;
+  background: #ffffff2f;
+  border-radius: 100px;
+  font-size: .7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+} 
+
+.home-link {
+  display: grid;
+  margin-top: 12px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  grid-gap: 12px;
+  text-align: center;
+}
+
+.home-grid--col2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.home-link__button {
+  display: flex;
+}
+
+.home-link__button a {
+  flex-grow: 1;
+  padding: 8px;
+  border: 1px solid #ffffff1c;
+  background: #ffffff14;
+  border-radius: 8px;
+  color: #fff;
+  font-size: .7rem;
+}
+
+#home-card-discord {
+  background: #5865f2;
+}
+
+#home-card-boosty {
+  background: #ff6542;
 }

@@ -14,7 +14,7 @@
 Глава отдела: [**Капитан**](command/captain) <br> 
 Канал отдела: *:к*
 
-<div class="admonition note">
+<div class="admonition notw">
 <p class="admonition-title ss220-roles-23726">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -55,7 +55,7 @@
 Глава отдела: **Магистрат** <br> 
 Канал отдела: *:о*
 
-<div class="admonition note ss220-roles-23730">
+<div class="admonition roles ss220-roles-23730">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23732">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -88,7 +88,7 @@
 Глава отдела: **ГСБ** <br> 
 Канал отдела: *:о*
 
-<div class="admonition note ss220-roles-23730">
+<div class="admonition roles ss220-roles-23730">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23732">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -127,7 +127,7 @@
 Глава отдела: **Главный Врач** <br> 
 Канал отдела: *:м*
 
-<div class="admonition note ss220-roles-23740">
+<div class="admonition roles ss220-roles-23740">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23742">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -153,7 +153,7 @@
 </table></div></div>
 </div>
 
-<div class="admonition note ss220-roles-23740">
+<div class="admonition roles ss220-roles-23740">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23742">Нестандартные роли:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -190,7 +190,7 @@
 Глава отдела: **Научный Руководитель** <br> 
 Канал отдела: *:н*
 
-<div class="admonition note ss220-roles-23750">
+<div class="admonition roles ss220-roles-23750">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23752">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -223,7 +223,7 @@
 Глава отдела: **Старший Инженер** <br> 
 Канал отдела: *:и*
 
-<div class="admonition note ss220-roles-23760">
+<div class="admonition roles ss220-roles-23760">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23762">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -258,7 +258,7 @@
 Глава отдела: **Квартирмейстр** <br> 
 Канал отдела: *:п*
 
-<div class="admonition note ss220-roles-23770">
+<div class="admonition roles ss220-roles-23770">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23772">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -291,7 +291,7 @@
 Глава отдела: **Глава Персонала** <br> 
 Канал отдела: *:с*
 
-<div class="admonition note ss220-roles-23780">
+<div class="admonition roles ss220-roles-23780">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23782">Сотрудники отдела:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -362,7 +362,7 @@
 Глава: *Ситуативно* <br> 
 Канал: *:т*
 
-<div class="admonition note ss220-roles-23730">
+<div class="admonition roles ss220-roles-23730">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23732">Ими являются:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -416,7 +416,7 @@
 
 Канал: *:ц*
 
-<div class="admonition note ss220-roles-23780">
+<div class="admonition roles ss220-roles-23780">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23782">Члены ЦК:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
@@ -452,7 +452,7 @@
 
 <h2 id="_2"><a href="https://i.ibb.co/SxBg4Vn/64px.png"><img alt="" src="https://i.ibb.co/SxBg4Vn/64px.png" style="max-width: 36px"></a> <strong>Гост-роли</strong></h2>
 
-<div class="admonition note ss220-roles-23790">
+<div class="admonition roles ss220-roles-23790">
 <p class="admonition-title ss220-roles-23726 ss220-roles-23792">Члены ЦК:</p>
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table class="ss220-roles-23723">
 <thead>
