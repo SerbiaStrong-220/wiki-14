@@ -230,12 +230,31 @@ td {
 
 .md-typeset .delta > .admonition-title::before, .md-typeset .delta > summary::before {
   background-color: #3b22b0;
-  -webkit-mask-image: var(--md-admonition-icon--example);
-  mask-image: var(--md-admonition-icon--example);
+  -webkit-mask-image: var(--md-admonition-icon--warning);
+  mask-image: var(--md-admonition-icon--warning);
 }
 
 .md-typeset .delta > .admonition-title::after, .md-typeset .delta > summary::after {
   color: #3b22b0;
+}
+
+
+.md-typeset .admonition.blue, .md-typeset details.blue {
+  border-color: #2b86c2;
+} 
+
+.md-typeset .blue > .admonition-title, .md-typeset .blue > summary {
+  background-color: #2b86c21a;
+}
+
+.md-typeset .blue > .admonition-title::before, .md-typeset .blue > summary::before {
+  background-color: #2b86c2;
+  -webkit-mask-image: var(--md-admonition-icon--warning);
+  mask-image: var(--md-admonition-icon--warning);
+}
+
+.md-typeset .blue > .admonition-title::after, .md-typeset .blue > summary::after {
+  color: #3596d6;
 }
   
 /* 2. Дополнительные стили таблиц */
