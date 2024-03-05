@@ -8,35 +8,35 @@
 
 <div id="home-nav" class="home-grid" role="navigation">
 	<div class="home-card home-card--button" id="home-nav-ships">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/newbies/" title="Ships"><picture><<img alt="MainTabs-Vehicles.png" src="/images/newbies-index.png" decoding="async" loading="lazy" width="300" height="89" data-file-width="998" data-file-height="297"></picture></a><a href="https://media.starcitizen.tools/2/2e/MainTabs-Vehicles.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/newbies/" title="Ships"><picture><<img alt="MainTabs-Vehicles.png" src="images/newbies-index.png" decoding="async" loading="lazy" width="300" height="89" data-file-width="998" data-file-height="297"></picture></a><a href="https://media.starcitizen.tools/2/2e/MainTabs-Vehicles.png"></a></span></div>
 		<div class="home-card__foreground">Новичкам</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-Components">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/rules/" title="Components"><picture><img alt="MainTabs-Components.png" src="/images/rules-index.png" decoding="async" loading="lazy" width="300" height="99" data-file-width="662" data-file-height="218"></picture></a><a href="https://media.starcitizen.tools/6/6e/MainTabs-Components.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/rules/" title="Components"><picture><img alt="MainTabs-Components.png" src="images/rules-index.png" decoding="async" loading="lazy" width="300" height="99" data-file-width="662" data-file-height="218"></picture></a><a href="https://media.starcitizen.tools/6/6e/MainTabs-Components.png"></a></span></div>
 		<div class="home-card__foreground">Правила</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-Equipment">
-		<div class="home-card__background"><span typeof="mw:File"><a href="https://serbiastrong-220.github.io/webmap/" title="Equipment"><picture><img alt="MainTabs-Equipment.png" src="/images/maps-index.png" decoding="async" loading="lazy" width="300" height="88" data-file-width="532" data-file-height="156"></picture></a><a href="https://media.starcitizen.tools/3/38/MainTabs-Equipment.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="https://serbiastrong-220.github.io/webmap/" title="Equipment"><picture><img alt="MainTabs-Equipment.png" src="images/maps-index.png" decoding="async" loading="lazy" width="300" height="88" data-file-width="532" data-file-height="156"></picture></a><a href="https://media.starcitizen.tools/3/38/MainTabs-Equipment.png"></a></span></div>
 		<div class="home-card__foreground">Карты</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-Commodities">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/weapons/" title="Commodities"><picture><img alt="MainTabs-Commodities.png" src="/images/weapons-index.png" decoding="async" loading="lazy" width="300" height="83" data-file-width="612" data-file-height="169"></picture></a><a href="https://media.starcitizen.tools/d/d8/MainTabs-Commodities.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/weapons/" title="Commodities"><picture><img alt="MainTabs-Commodities.png" src="images/weapons-index.png" decoding="async" loading="lazy" width="300" height="83" data-file-width="612" data-file-height="169"></picture></a><a href="https://media.starcitizen.tools/d/d8/MainTabs-Commodities.png"></a></span></div>
 		<div class="home-card__foreground">Оружие</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-Locations">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/spacelaw/" title="Locations"><picture><img alt="MainTabs-Locations.png" src="/images/law-index.png" decoding="async" loading="lazy" width="300" height="114" data-file-width="505" data-file-height="192"></picture></a><a href="https://media.starcitizen.tools/4/4f/MainTabs-Locations.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/spacelaw/" title="Locations"><picture><img alt="MainTabs-Locations.png" src="images/law-index.png" decoding="async" loading="lazy" width="300" height="114" data-file-width="505" data-file-height="192"></picture></a><a href="https://media.starcitizen.tools/4/4f/MainTabs-Locations.png"></a></span></div>
 		<div class="home-card__foreground">Корпоративный Закон</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-Factions">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/cop/" title="Careers"><picture><img alt="MainTabs-Careers.png" src="/images/cop-index.png" decoding="async" loading="lazy" width="300" height="166" data-file-width="353" data-file-height="195"></picture></a><a href="https://media.starcitizen.tools/4/48/MainTabs-Careers.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/cop/" title="Careers"><picture><img alt="MainTabs-Careers.png" src="images/cop-index.png" decoding="async" loading="lazy" width="300" height="166" data-file-width="353" data-file-height="195"></picture></a><a href="https://media.starcitizen.tools/4/48/MainTabs-Careers.png"></a></span></div>
 		<div class="home-card__foreground">СРП</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-Characters">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/roles/" title="Characters"><picture><img alt="MainTabs-Characters.png" src="/images/roles-index.png" decoding="async" loading="lazy" width="300" height="123" data-file-width="745" data-file-height="305"></picture></a><a href="https://media.starcitizen.tools/9/99/MainTabs-Characters.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/roles/" title="Characters"><picture><img alt="MainTabs-Characters.png" src="images/roles-index.png" decoding="async" loading="lazy" width="300" height="123" data-file-width="745" data-file-height="305"></picture></a><a href="https://media.starcitizen.tools/9/99/MainTabs-Characters.png"></a></span></div>
 		<div class="home-card__foreground">Роли</div>
 	</div>
 	<div class="home-card home-card--button" id="home-nav-AlienRaces">
-		<div class="home-card__background"><span typeof="mw:File"><a href="/lore/" title="Alien Races"><picture><img alt="MainTabs-AlienRaces.png" src="/images/lore-index.png" decoding="async" loading="lazy" width="300" height="115" data-file-width="277" data-file-height="106"></picture></a><a href="https://media.starcitizen.tools/3/3b/MainTabs-AlienRaces.png"></a></span></div>
+		<div class="home-card__background"><span typeof="mw:File"><a href="/lore/" title="Alien Races"><picture><img alt="MainTabs-AlienRaces.png" src="images/lore-index.png" decoding="async" loading="lazy" width="300" height="115" data-file-width="277" data-file-height="106"></picture></a><a href="https://media.starcitizen.tools/3/3b/MainTabs-AlienRaces.png"></a></span></div>
 		<div class="home-card__foreground">Лор</div>
 	</div>
 	<!--div class="home-card home-card--button" id="home-nav-Missions">
@@ -63,7 +63,7 @@
 <div id="home-featured" class="home-card home-card--button home-card--col2 home-card--row3" style="margin-top: 12px">
 <div class="home-card__background"><span class="mw-default-size" typeof="mw:File"><a href="/lore/countries/ussp" title="Jumptown">
 <picture>
-<img alt="Jumptown-daymar.webp" src="/images/ussp-index.png" decoding="async" loading="lazy" width="475" height="200" data-file-width="2560" data-file-height="1080"></picture></a><a href="/images/ussp-index.png"></a></span></div>
+<img alt="Jumptown-daymar.webp" src="images/ussp-index.png" decoding="async" loading="lazy" width="475" height="200" data-file-width="2560" data-file-height="1080"></picture></a><a href="images/ussp-index.png"></a></span></div>
 <div class="home-card__foreground">
 <div class="home-card__label">Рекомендуемое</div>
 <div class="home-card__header">Союз Советских Социалистических Планет</div>
