@@ -1,0 +1,701 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+/* Импорт шрифтов */
+
+/* 
+ * SS220 SS14 Вики 
+ * Файл с дополнительными стилями 
+
+ 0. Понамешанное
+ 1. Модификация темы
+ 2. Дополнительные стили таблиц
+ 2.1. Таблицы ролей
+*/
+
+/* 0. Понамешанное */
+
+.md-grid {
+  max-width: 1600px;
+}
+
+.spacelaw tbody td {
+  background: linear-gradient(rgba(45, 45, 46, 0.199), rgba(41, 39, 39, 0.151));
+}
+table.spacelaw tbody td+td+td+td+td+td {
+  background-color: rgba(15, 15, 15, 0.801);
+  
+}
+table.spacelaw tbody td+td+td+td+td {
+  background-color: rgb(141, 18, 18)
+}
+/* overwrite background again */
+table.css2 tbody tr + tr td + td + td { 
+  background-color: inherit;
+}
+table.spacelaw tbody td+td+td+td {
+  background-color: rgba(216, 57, 17, 0.623);
+}
+table.spacelaw tbody td+td+td {
+  background-color: rgba(196, 199, 18, 0.603);
+}
+table.spacelaw tbody td+td {
+  background-color: rgba(21, 180, 29, 0.589);
+}
+table.spacelaw tbody td {
+  background-color: rgba(0, 0, 0, 0.233);
+}
+table.sentencingmodifiers tbody tr  {
+  background-color: rgb(128, 19, 19);
+}
+table.sentencingmodifiers tbody tr+tr  {
+  background-color: rgba(209, 24, 24, 0);
+}
+table.prisonerabuse tbody tr {
+  background-color: rgb(133, 22, 22);
+}
+table.prisonerabuse tbody tr+tr {
+  background-color: rgba(156, 22, 22, 0);
+}
+
+.sentencingmodifiers {
+  width: 962px;
+  margin: center;
+  vertical-align: bottom;
+  text-align: center;
+  height: center;
+}
+.prisonerabuse {
+  width: 962px;
+  margin: center;
+  vertical-align: center;
+  text-align: center;
+  height: center;
+}
+.spacelaw {
+  width: 962px;
+  margin: center;
+  vertical-align: bottom;
+  text-align: center;
+  height: center;
+}
+table.spacelaw {
+  border-collapse: collapse;
+  /*убираем пустые промежутки между ячейками*/
+  border: 1px solid rgb(0, 0, 0);
+  /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+td {
+  border: 1px solid rgb(0, 0, 0);
+}
+table {
+  border-top: 1px solid rgb(0, 0, 0);
+}
+/* задаём для ячейки тела таблицы границу серого цвета толщиной 1px */
+td {
+  border-bottom: 0.5px solid rgb(0, 0, 0);
+}
+table {
+  width: 962px;
+}
+th {
+  width: 20%;
+}
+td:first-child {
+  width: 10%;
+}
+
+table.prisonerabuse {
+  border-collapse: collapse;
+  /*убираем пустые промежутки между ячейками*/
+  border: 2px solid rgb(0, 0, 0);
+  /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+table.sentencingmodifiers {
+  border-collapse: collapse;
+  /*убираем пустые промежутки между ячейками*/
+  border: 2px solid rgb(0, 0, 0);
+  /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+}
+
+
+
+/* 1. Модификация темы */
+
+:root {
+  --md-text-font: Inter, sans-serif;
+  --md-default-fg-color--light: #fff;
+}
+
+body {
+  font-family: "Inter", sans-serif !important;
+}
+
+.md-header {
+}
+
+.md-search__form {
+  border-radius: 6px !important;
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+  border-radius: 8px !important;
+}
+
+.md-footer__inner:not([hidden]) {
+  display: flex;
+  height: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.md-typeset h1, .md-typeset h2 {
+  font-weight: 600;
+  color: #fff;
+}
+
+.md-typeset h3 {
+  font-weight: 500;
+}
+
+strong {
+  font-weight: 600;
+}
+
+td {
+  border-right: .05rem solid var(--md-typeset-table-color) !important;
+  border: 0px;
+}
+
+.md-typeset .admonition, .md-typeset details {
+  border-radius: 8px;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 8px;
+}
+
+.md-typeset .admonition.failure, .md-typeset details.failure {
+  border-color: #ff1744;
+}
+
+.md-typeset .failure > .admonition-title, .md-typeset .failure > summary {
+  background-color: #ff17441a;
+}
+
+.md-typeset .admonition.danger, .md-typeset details.danger {
+  border-color: #ff6317;
+}
+
+.md-typeset .danger > .admonition-title, .md-typeset .danger > summary {
+  background-color: #ff63171a;
+}
+
+.md-typeset .danger > .admonition-title::before, .md-typeset .danger > summary::before {
+  background-color: #ff6317;
+  -webkit-mask-image: var(--md-admonition-icon--danger);
+  mask-image: var(--md-admonition-icon--danger);
+}
+
+.md-typeset .danger > .admonition-title::after, .md-typeset .danger > summary::after {
+  color: #ff6317;
+}
+
+
+.md-typeset .admonition.roles, .md-typeset details.roles {
+  border-color: #ff6317;
+} 
+
+.md-typeset .roles > .admonition-title, .md-typeset .roles > summary {
+  background-color: #ff63171a;
+}
+
+.md-typeset .roles > .admonition-title::before, .md-typeset .roles > summary::before {
+  background-color: #ffffff4b;
+  -webkit-mask-image: var(--md-admonition-icon--info);
+  mask-image: var(--md-admonition-icon--info);
+}
+
+.md-typeset .roles > .admonition-title::after, .md-typeset .roles > summary::after {
+  color: #ff6317;
+}
+
+
+.md-typeset .admonition.delta, .md-typeset details.delta {
+  border-color: #3b22b0;
+} 
+
+.md-typeset .delta > .admonition-title, .md-typeset .delta > summary {
+  background-color: #3b22b01a;
+}
+
+.md-typeset .delta > .admonition-title::before, .md-typeset .delta > summary::before {
+  background-color: #3b22b0;
+  -webkit-mask-image: var(--md-admonition-icon--warning);
+  mask-image: var(--md-admonition-icon--warning);
+}
+
+.md-typeset .delta > .admonition-title::after, .md-typeset .delta > summary::after {
+  color: #3b22b0;
+}
+
+
+.md-typeset .admonition.blue, .md-typeset details.blue {
+  border-color: #2b86c2;
+} 
+
+.md-typeset .blue > .admonition-title, .md-typeset .blue > summary {
+  background-color: #2b86c21a;
+}
+
+.md-typeset .blue > .admonition-title::before, .md-typeset .blue > summary::before {
+  background-color: #2b86c2;
+  -webkit-mask-image: var(--md-admonition-icon--warning);
+  mask-image: var(--md-admonition-icon--warning);
+}
+
+.md-typeset .blue > .admonition-title::after, .md-typeset .blue > summary::after {
+  color: #3596d6;
+}
+  
+/* 2. Дополнительные стили таблиц */
+
+
+/* 2.1. Таблицы ролей */
+
+.ss220-roles-23721 {
+  /* height: 128px !important; */
+  min-height: 128px !important;
+  max-height: 128px !important;
+  max-width: 1920px !important;
+}
+
+.ss220-roles-23921 {
+  /* height: 128px !important; */
+  min-height: 128px !important;
+  max-height: 148px !important;
+  max-width: 1920px !important;
+}
+
+.ss220-roles-23723 {
+  border: 0rem;
+  text-align: center;   
+  font-size: .8rem;
+}
+
+.ss220-roles-23723 td {
+  border-right: 0px !important;
+}
+
+
+.ss220-roles-23726 {
+  font-size: .8rem;
+}
+
+.ss220-roles-23730 {
+  border-color: #ff4d4d !important;
+}
+
+.ss220-roles-23732 {
+  background-color: #ff4d4d1a !important;
+}
+
+.ss220-roles-23736 {
+  width: 20%; !important;
+  text-align: center;   
+}
+
+.ss220-roles-23739 {
+  width: 80%; !important;
+}
+
+.ss220-roles-23740 {
+  border-color: #4dfff0 !important;
+}
+
+.ss220-roles-23742 {
+  background-color: #4dffff1a !important;
+}
+
+.ss220-roles-23750 {
+  border-color: #7c4dff !important;
+}
+
+.ss220-roles-23752 {
+  background-color: #7c4dff1a !important;
+}
+
+.ss220-roles-23760 {
+  border-color: #fffc4d !important;
+}
+
+.ss220-roles-23762 {
+  background-color: #fffc4d1a !important;
+}
+
+.ss220-roles-23770 {
+  border-color: #ffa34d !important;
+}
+
+.ss220-roles-23772 {
+  background-color: #ffa34d1a !important;
+}
+
+.ss220-roles-23780 {
+  border-color: #4dff65 !important;
+}
+
+.ss220-roles-23782 {
+  background-color: #4dff651a !important;
+}
+
+.ss220-roles-23790 {
+  border-color: #9b9b9b !important;
+}
+
+.ss220-roles-23792 {
+  background-color: #7e7e7e1a !important;
+}
+
+/* 2.2. Космический закон */
+
+.ss220-spacelaw-21231 td {
+  padding: 12px;
+  text-align: center !important;
+  border: 0px;
+}
+
+.ss220-spacelaw-21231 th {
+  padding: 12px;
+  text-align: center !important;
+  border: 0px;
+}
+
+.ss220-spacelaw-21233 {
+  width: 2%;
+}
+
+.ss220-spacelaw-21236 {
+  width: 19.6%;
+}
+
+.ss220-spacelaw-21230-1 {
+  background-color: rgb(105, 143, 67);
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-2 {
+  background-color: rgb(166, 155, 56);
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-3 {
+  background-color: #111;
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-4 {
+  background-color: rgb(176, 101, 58);
+  color: #fff;
+}
+
+.ss220-spacelaw-21230-5 {
+  background-color: rgb(150, 53, 53);
+  color: #fff;
+}
+
+
+/* 2.3. СРП */
+
+
+/*
+.ss220-cop-21231 td {
+  padding: 14px !important;
+  text-align: center !important;
+  border: 0px;
+  font-size: 32px !important;
+  border: 1px #fff;
+  border-left: .05rem solid var(--md-typeset-table-color) !important;
+  width: 33%;
+  line-height: 1.1em;
+}
+*/
+
+.ss220-cop-21231 td {
+  padding: 36px !important;
+  text-align: center !important;
+  border: 0px;
+  font-size: 28px !important;
+  border: 1px #fff;
+  border-left: .05rem solid var(--md-typeset-table-color) !important;
+  width: 33%;
+  line-height: 1.1em;
+}
+
+.ss220-cop-21231 th {
+  padding: 12px;
+  text-align: center !important;
+  border: 0px;
+}
+
+.ss220-cop-21231 a {
+  color: #d3f5ff !important;
+}
+
+/* 2.4. Домашняя страница */
+
+@media (min-width: 640px) {
+
+.ss220-home-32131 {
+  width: 50% !important;
+}
+
+.ss220-home-32134 {
+  text-align: center;
+}
+
+}
+
+/* 2.4.1. Домашняя страница (эксперементальная) */
+
+/* Код в данной части может быть взят с Star Citizen Wiki по открытой лицензии */
+
+.home-grid {
+  display: grid;
+  grid: auto-flow dense/repeat(auto-fit,minmax(9.375rem,1fr));
+    grid-auto-rows: auto;
+  grid-auto-rows: minmax(3rem,auto);
+  grid-gap: 12px
+}
+
+.home-card.home-card--button {
+  overflow: hidden;
+  padding: 0;
+  background: #242a31;
+  border: 0;
+}
+
+.home-card {
+  position: relative;
+  padding: var(--space-md);
+  background: var(--color-surface-1);
+  border: 1px solid var(--border-color-base);
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.04),0 3px 6px rgba(0,0,0,0.0575);
+  font-size: 0.875rem;
+}
+
+.home-card__background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #242a31;
+  border-radius: 8px;
+}
+
+.home-card--button a {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0 var(--space-md);
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+}
+
+.home-card__background img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-card__foreground {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  color: #fff;
+  line-height: 12px;
+  pointer-events: none;
+  font-weight: 600;
+  font-size: .7rem;
+}
+
+
+.home-card--row3 {
+  grid-row: span 3;
+}
+
+.home-card--col2 {
+  grid-column: span 2;
+}
+
+.home-card {
+  position: relative;
+  padding: 20px;
+  background: var(--color-surface-1);
+  border: 1px solid #ffffff23;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.04),0 3px 6px rgba(0,0,0,0.0575);
+  font-size: 0.875rem;
+}
+
+.home-card__background {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #242a31;
+  border-radius: 8px;
+}
+
+.home-card {
+  font-size: 0.875rem;
+}
+
+#home-featured .home-card__background a {
+  display: block;
+  height: 100%;
+}
+
+.home-card--button .home-card__background a {
+  padding: 0;
+}
+
+.home-card--button a {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 0 12px;
+  background: transparent;
+  color: #fff;
+  font-weight: 500;
+}
+
+.home-card__background img {
+  object-fit: cover;
+  object-position: center;
+}
+
+.home-card__background img {
+  width: 100%;
+  height: 100%;
+}
+
+#home-featured .home-card__foreground {
+  top: unset;
+}
+
+/* .home-card__foreground {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  color: #fff;
+  line-height: auto;
+  pointer-events: none;
+  font-size: .7rem;
+} */
+
+.home-card__foreground .home-card__label {
+  color: #bababa;
+}
+
+.home-card__foreground .home-card__header {
+  color: #fff;
+  font-size: .9rem;
+  line-height: 20px;
+}
+
+#home-gamebuild {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.home-card__label {
+  color: var(--color-base--subtle);
+  font-size: .7rem;
+  letter-spacing: 0.75px;
+}
+
+.home-gamebuild-patch__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.home-gamebuild-patch {
+  display: flex;
+  align-items: center;
+}
+
+.home-gamebuild-patch__name {
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.home-gamebuild-patch__type--live {
+  background: #38d15942 !important;
+  color: #5dec7ca4 !important;
+}
+
+.home-gamebuild-patch__type {
+  padding: 0.1rem 0.6rem;
+  margin-left: 0.4rem;
+  background: #ffffff2f;
+  border-radius: 100px;
+  font-size: .7rem;
+  font-weight: 500;
+  text-transform: uppercase;
+} 
+
+.home-link {
+  display: grid;
+  margin-top: 12px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  grid-gap: 12px;
+  text-align: center;
+}
+
+.home-grid--col2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.home-link__button {
+  display: flex;
+}
+
+.home-link__button a {
+  flex-grow: 1;
+  padding: 8px;
+  border: 1px solid #ffffff1c;
+  background: #ffffff14;
+  border-radius: 8px;
+  color: #fff;
+  font-size: .7rem;
+}
+
+#home-card-discord {
+  background: #5865f2;
+}
+
+#home-card-boosty {
+  background: #ff6542;
+}
